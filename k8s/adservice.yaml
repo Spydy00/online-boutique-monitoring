@@ -21,7 +21,7 @@ spec:
       containers:
       - name: adservice
 
-        image: yugandhar25/adservice:v1
+        image: spydy00/adservice:latest
 
         ports:
         - containerPort: 9555
