@@ -21,7 +21,7 @@ spec:
       containers:
       - name: currencyservice
 
-        image: yugandhar25/currencyservice:v1
+        image: spydy00/currencyservice:latest
 
         imagePullPolicy: Always
 
