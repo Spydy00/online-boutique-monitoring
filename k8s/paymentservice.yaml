@@ -21,7 +21,7 @@ spec:
       containers:
         - name: paymentservice
 
-          image: yugandhar25/paymentservice:v2
+          image: spydy00/paymentservice:latest
 
           ports:
             - containerPort: 50051
