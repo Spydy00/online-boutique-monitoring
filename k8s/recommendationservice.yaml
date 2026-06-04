@@ -21,7 +21,7 @@ spec:
       containers:
         - name: recommendationservice
 
-          image: yugandhar25/recommendationservice:v3
+          image: spydy00/recommendationservice:latest
 
           ports:
             - containerPort: 8080
