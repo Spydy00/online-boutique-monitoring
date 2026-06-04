@@ -21,7 +21,7 @@ spec:
       containers:
         - name: frontend
 
-          image: spydy00/frontend:latest
+          image: gcr.io/google-samples/microservices-demo/frontend:v0.10.0
 
           ports:
             - containerPort: 8080
