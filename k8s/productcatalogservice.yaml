@@ -21,7 +21,7 @@ spec:
       containers:
       - name: productcatalogservice
 
-        image: yugandhar25/productcatalogservice:v1
+        image: spydy00/productcatlogservice:latest
 
         imagePullPolicy: Always
 
