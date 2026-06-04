@@ -21,7 +21,7 @@ spec:
       containers:
         - name: checkoutservice
 
-          image: yugandhar25/checkoutservice:v2
+          image: spydy00/checkoutservice:latest
 
           ports:
             - containerPort: 5050
