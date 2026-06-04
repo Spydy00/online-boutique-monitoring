@@ -21,7 +21,7 @@ spec:
       containers:
         - name: frontend
 
-          image: yugandhar25/frontend:v1
+          image: spydy00/frontend:latest
 
           ports:
             - containerPort: 8080
